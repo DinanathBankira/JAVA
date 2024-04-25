@@ -1,4 +1,5 @@
 package oopss;
+//Encapsulation
 class persion{
 	
 	private String name;
