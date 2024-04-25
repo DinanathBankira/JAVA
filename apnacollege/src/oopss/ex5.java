@@ -8,5 +8,6 @@ public class ex5 {
 //		Objacts
 //		Class
 //		Abstraction
+		System.out.println("Hello Github");
 	}
 }
